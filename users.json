@@ -5,7 +5,31 @@
       "id": 1,
       "name": "aldric",
       "position": "Developer",
-      "location": "Samal"
+      "location": "Davao"
+    },
+    {
+      "id": 2,
+      "name": "SEAN",
+      "position": "Systems analyst",
+      "location": "MATINA"
+    },
+    {
+      "id": 3,
+      "name": "CHAN",
+      "position": "Data analyst",
+      "location": "IBABAW"
+    },
+    {
+      "id": 4,
+      "name": "BRYLE",
+      "position": "Network engineer",
+      "location": "SAUBOS"
+    },
+    {
+      "id": 5,
+      "name": "JENY",
+      "position": "Web developer",
+      "location": "SATUNGA"
     }
   ]
 }
